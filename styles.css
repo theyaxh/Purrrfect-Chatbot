@@ -1,5 +1,5 @@
 body {
-    font-family: 'Poppins';
+    font-family: Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -76,9 +76,6 @@ body {
     margin-left: 5px;
     cursor: pointer;
 }
-/* #user-input:active {
-    
-} */
 #send-button:hover {
     background-color: #48a1ff;
 }
